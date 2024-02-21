@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8lmsj51zCwph2vBWZvu0Uxui+pR/ODdU6Tl3hQqQWeSWHH8dL0r1p1yOEtLY3wMJkG78uBkLjsSG29nXb/VQ3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timot\\source\\repos\\Quality\\src\\BusinessValidationService\\BusinessValidationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timot\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\timot\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

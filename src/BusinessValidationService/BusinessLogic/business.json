@@ -1,0 +1,17 @@
+[
+    {
+        "ruleName": "LessThan",
+        "errorMessage": "value must be larger than 10",
+        "validationLogic": {"operator": "Equals", "value": "10"}
+    },
+    {
+        "ruleName": "Rule2",
+        "errorMessage": "Validation failed for Rule2",
+        "validationLogic": {"operator": "value2", "value": "value2"}
+    },
+    {
+        "ruleName": "Rule3",
+        "errorMessage": "Validation failed for Rule3",
+        "validationLogic": {"operator":"value3", "value":"value3"}
+    }
+]
